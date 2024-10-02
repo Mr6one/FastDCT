@@ -1,5 +1,7 @@
 #include "ndct.hpp"
 
+using std::size_t;
+
 namespace ndct {
 
 static constexpr float W1 = 0.490392625;

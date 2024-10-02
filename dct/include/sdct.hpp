@@ -2,6 +2,8 @@
 
 #include <array>
 
+using std::size_t;
+
 namespace sdct {
 
 extern std::array<float, 8> scales;
